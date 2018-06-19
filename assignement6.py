@@ -126,7 +126,7 @@ l[1]
 a=int(input("enter the range of list:"))
 for x in range(a):
  x=input("enter the number: ")
- l.apend(x)
+ l.append(x)
 print(l)
 y=input("select any number you want to search: ")
 for x in l:
